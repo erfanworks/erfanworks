@@ -1,6 +1,6 @@
 𝐇𝐢, 𝐈'𝐦 𝐄𝐫𝐟𝐚𝐧 👋
 
-Flutter & Mobile App Developer | iOS & Android
+𝗙𝗹𝘂𝘁𝘁𝗲𝗿 & 𝗠𝗼𝗯𝗶𝗹𝗲 𝗔𝗽𝗽 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗶𝗢𝗦 & 𝗔𝗻𝗱𝗿𝗼𝗶𝗱
 
 I build mobile applications that solve real problems - from turning product ideas into polished apps to improving existing products with reliable features and native platform integrations.
 
@@ -8,7 +8,7 @@ My primary focus is Flutter and Dart, with hands-on experience working across iO
 
 I care about clean implementation, thoughtful user experiences, and delivering apps that are ready for real users.
 
-What I Do
+𝗪𝗵𝗮𝘁 𝗜 𝗗𝗼
 
 📱 Mobile App Development - Cross-platform applications with Flutter for iOS and Android.
 🔌 Native Integrations - Platform-specific functionality, including NFC and iOS Family Controls.
@@ -16,7 +16,7 @@ What I Do
 🛠️ Existing App Development — Bug fixing, feature development, maintenance, and performance improvements.
 🚀 App Delivery - Build configuration, testing, and App Store and Google Play release workflows.
 
-Tech Stack
+𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 Mobile Development
 Flutter · Dart · Native iOS & Android Integrations
@@ -30,7 +30,7 @@ NFC · Apple FamilyControls · ManagedSettings
 Tools & Workflow
 Git · GitHub · Xcode · Android Studio · App Store Connect · Google Play Console
 
-Selected Work
+𝗦𝗲𝗹𝗲𝗰𝘁𝗲𝗱 𝗪𝗼𝗿𝗸
 
 Focus Key - Stay Focused
 
@@ -49,13 +49,13 @@ Explore my portfolio for additional mobile applications and development work.
 
 🌐 Portfolio Website
 
-A Little About Me
+𝗔 𝗟𝗶𝘁𝘁𝗹𝗲 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
 💡 I enjoy solving practical engineering problems and working with platform-specific mobile features.
 🤝 I value clear communication, maintainable code, and collaborative development.
 🌱 I continuously work on improving my engineering skills and building better mobile experiences.
 
-Let's Connect
+𝗟𝗲𝘁'𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁
 
 I'm open to connecting with developers, product teams, and businesses working on meaningful mobile products.
 
