@@ -10,11 +10,11 @@ I care about clean implementation, thoughtful user experiences, and delivering a
 
 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗼
 
-📱 Mobile App Development - Cross-platform applications with Flutter for iOS and Android.
-🔌 Native Integrations - Platform-specific functionality, including NFC and iOS Family Controls.
-🔥 Backend & APIs - Firebase integration, REST APIs, authentication, and app data workflows.
+📱 Mobile App Development — Cross-platform applications with Flutter for iOS and Android.
+🔌 Native Integrations — Platform-specific functionality, including NFC and iOS Family Controls.
+🔥 Backend & APIs — Firebase integration, REST APIs, authentication, and app data workflows.
 🛠️ Existing App Development — Bug fixing, feature development, maintenance, and performance improvements.
-🚀 App Delivery - Build configuration, testing, and App Store and Google Play release workflows.
+🚀 App Delivery — Build configuration, testing, and App Store and Google Play release workflows.
 
 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
