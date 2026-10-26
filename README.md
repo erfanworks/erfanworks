@@ -1,16 +1,65 @@
-## Hi there 👋
+𝐇𝐢, 𝐈'𝐦 𝐄𝐫𝐟𝐚𝐧 👋
 
-<!--
-**erfanworks/erfanworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter & Mobile App Developer | iOS & Android
 
-Here are some ideas to get you started:
+I build mobile applications that solve real problems — from turning product ideas into polished apps to improving existing products with reliable features and native platform integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary focus is Flutter and Dart, with hands-on experience working across iOS and Android, Firebase, APIs, and platform-specific functionality.
+
+I care about clean implementation, thoughtful user experiences, and delivering apps that are ready for real users.
+
+What I Do
+
+📱 Mobile App Development — Cross-platform applications with Flutter for iOS and Android.
+🔌 Native Integrations — Platform-specific functionality, including NFC and iOS Family Controls.
+🔥 Backend & APIs — Firebase integration, REST APIs, authentication, and app data workflows.
+🛠️ Existing App Development — Bug fixing, feature development, maintenance, and performance improvements.
+🚀 App Delivery — Build configuration, testing, and App Store and Google Play release workflows.
+
+Tech Stack
+
+Mobile Development
+Flutter · Dart · Native iOS & Android Integrations
+
+Backend & APIs
+Firebase · REST APIs · Authentication · Push Notifications
+
+Platform-Specific Features
+NFC · Apple FamilyControls · ManagedSettings
+
+Tools & Workflow
+Git · GitHub · Xcode · Android Studio · App Store Connect · Google Play Console
+
+Selected Work
+
+Focus Key - Stay Focused
+
+A mobile application focused on helping users manage distractions through app restrictions and focus sessions.
+
+Worked on Flutter application development and platform-specific functionality.
+Integrated iOS Family Controls and ManagedSettings.
+Worked on NFC-based unlocking and push notifications.
+Contributed to app testing, deployment, and App Store release workflows.
+
+🔗 View on the App Store- https://apps.apple.com/app/focus-key-stay-focused/id6775448452
+
+More Projects
+
+Explore my portfolio for additional mobile applications and development work.
+
+🌐 Portfolio Website
+
+A Little About Me
+
+💡 I enjoy solving practical engineering problems and working with platform-specific mobile features.
+🤝 I value clear communication, maintainable code, and collaborative development.
+🌱 I continuously work on improving my engineering skills and building better mobile experiences.
+
+Let's Connect
+
+I'm open to connecting with developers, product teams, and businesses working on meaningful mobile products.
+
+🌐 Portfolio- https://shawon-flutter.vercel.app
+💼 LinkedIn- https://www.linkedin.com/in/erfan-hasnat-shawon-6471b238a
+
+𝘽𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙩𝙝𝙤𝙪𝙜𝙝𝙩𝙛𝙪𝙡 𝙢𝙤𝙗𝙞𝙡𝙚 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨, 𝙤𝙣𝙚 𝙛𝙚𝙖𝙩𝙪𝙧𝙚 𝙖𝙩 𝙖 𝙩𝙞𝙢𝙚.
